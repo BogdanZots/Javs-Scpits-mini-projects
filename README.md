@@ -1,4 +1,4 @@
 # Javs-Scpits-mini-projects
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+| № | Project  | Live Demo  |
+| 1 | Form validator | #Link1 |
+| 2 | Something else | Link2 |
