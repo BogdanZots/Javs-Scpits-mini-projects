@@ -9,3 +9,4 @@
 | 6 | [Hangman Game](https://github.com/BogdanZots/Hangman-game-js-mini-projects-) | [Live Demo](https://bogdanzots.github.io/Hangman-game-js-mini-projects-/) |
 | 7 | [Meal Finder](https://github.com/BogdanZots/mealMenu-finder-js-mini-project-) | [Live Demo](https://bogdanzots.github.io/mealMenu-finder-js-mini-project-/) |
 | 8 | [Expance Tracker](https://github.com/BogdanZots/Expance-Tracker) | [Live Demo](https://bogdanzots.github.io/Expance-Tracker/) |
+| 9 | [Infinity Scrolling](https://github.com/BogdanZots/Infinity-scrolling) | [Live Demo](https://bogdanzots.github.io/Infinity-scrolling/) |
